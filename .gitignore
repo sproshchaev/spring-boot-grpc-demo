@@ -37,3 +37,6 @@ build/
 
 ### Arch ###
 *.zip
+
+### MacOS ###
+.DS_Store

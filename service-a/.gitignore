@@ -31,3 +31,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Logs ###
+*.log
+
+### Arch ###
+*.zip
+
+### MacOS ###
+.DS_Store
